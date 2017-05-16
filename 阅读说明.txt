@@ -1,0 +1,7 @@
+ex3extra, about interpreted sequences(\) in printf
+ex3extra2, about conversion specifications(% [flags] [width] [.precision]) in printf
+
+ex7, Varibales and Types(chapter name)
+ex7extra, figure out how char, int and octal(\nnn) convert with each other.
+
+ex8
